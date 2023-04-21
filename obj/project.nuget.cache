@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HAIKqi2Op1eiUYu3HrLEnPKUUr//j8ahKrauqSdkxiTiM8XXuaV1OvkFX4L4UHnsajUcGO4OFvSi3yXJimXB0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\majke\\source\\repos\\UwUifier\\UwUifier\\UwUifier.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\majke\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\majke\\.nuget\\packages\\textcopy\\6.2.1\\textcopy.6.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
