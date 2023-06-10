@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HAIKqi2Op1eiUYu3HrLEnPKUUr//j8ahKrauqSdkxiTiM8XXuaV1OvkFX4L4UHnsajUcGO4OFvSi3yXJimXB0w==",
+  "dgSpecHash": "zXKk+y3EJ/zNy3st6ylnsQCdNWEz1+m+4/Y8/fItt5Yp9cfCYX4xN79j11TCGs/re//fij9/wCHsohA4RVwo4w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\majke\\source\\repos\\UwUifier\\UwUifier\\UwUifier.csproj",
+  "projectFilePath": "C:\\Users\\majke\\Documents\\GitHub\\uwuifier\\UwUifier.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\majke\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\majke\\.nuget\\packages\\textcopy\\6.2.1\\textcopy.6.2.1.nupkg.sha512"

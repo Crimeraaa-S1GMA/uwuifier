@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\majke\\source\\repos\\UwUifier\\UwUifier\\UwUifier.csproj": {}
+    "C:\\Users\\majke\\Documents\\GitHub\\uwuifier\\UwUifier.csproj": {}
   },
   "projects": {
-    "C:\\Users\\majke\\source\\repos\\UwUifier\\UwUifier\\UwUifier.csproj": {
+    "C:\\Users\\majke\\Documents\\GitHub\\uwuifier\\UwUifier.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\majke\\source\\repos\\UwUifier\\UwUifier\\UwUifier.csproj",
+        "projectUniqueName": "C:\\Users\\majke\\Documents\\GitHub\\uwuifier\\UwUifier.csproj",
         "projectName": "UwUifier",
-        "projectPath": "C:\\Users\\majke\\source\\repos\\UwUifier\\UwUifier\\UwUifier.csproj",
+        "projectPath": "C:\\Users\\majke\\Documents\\GitHub\\uwuifier\\UwUifier.csproj",
         "packagesPath": "C:\\Users\\majke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\majke\\source\\repos\\UwUifier\\UwUifier\\obj\\",
+        "outputPath": "C:\\Users\\majke\\Documents\\GitHub\\uwuifier\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

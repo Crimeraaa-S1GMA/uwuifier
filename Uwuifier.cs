@@ -61,7 +61,13 @@ namespace UwUifier
 
             List<string> output = input;
 
-            output.Add(emoticons[random.Next(0, emoticons.Length)]);
+            for(int i = 0; i < output.Count; i++)
+            {
+                if(random.Next(1, 4) == 1)
+                {
+                    output[i] += " " + emoticons[random.Next(0, emoticons.Length)];
+                }
+            }
 
             return output;
         }
