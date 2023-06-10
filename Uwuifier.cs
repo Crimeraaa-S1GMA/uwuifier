@@ -86,7 +86,7 @@ namespace UwUifier
 
         public string UwuifyLettersInStr(string input)
         {
-            return input.Replace('r', 'w').Replace('l', 'w').Replace('R', 'W').Replace('L', 'W');
+            return input.Replace('r', 'w').Replace('l', 'w').Replace('R', 'W').Replace('L', 'W').Replace("O", "OwO").Replace("o", "OwO").Replace("U", "UwU").Replace("u", "UwU");
         }
     }
 }
